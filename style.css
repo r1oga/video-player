@@ -29,6 +29,7 @@ footer {
   bottom: 0.5rem;
   width: 100%;
   text-align: center;
+  z-index: 3;
 }
 
 a {
